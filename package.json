@@ -1,0 +1,21 @@
+{
+  "name": "socket_tester",
+  "version": "1.0.0",
+  "description": "Socket testing based on the CodingTrain tutorials",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit1",
+    "start": "node server.js"
+  },
+  "keywords": [
+    "node.js",
+    "server",
+    "P5.js"
+  ],
+  "author": "mrBob",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "socket.io": "^2.3.0"
+  }
+}
